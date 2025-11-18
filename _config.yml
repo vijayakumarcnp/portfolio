@@ -16,10 +16,18 @@
 title: 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-  url: https://github.com/vijayakumarcnp/portfolio
+Quality Engineering Leader with 17 years of
+experience in developing and directing end-to-end test strategies for complex,
+high-transaction enterprise systems across diverse domains, including EV Mobility, Fintech,
+Insurance, and Retail Banking. Proven expertise in Automation Architecture using Robot
+framework, BDD Cucumber, and TestNG, and critical knowledge in Performance Testing
+(JMeter, Load Runner). Currently focused on AI integration and QA transition analysis,
+positioning teams for future data-driven product quality. Successfully transitioned quality
+efforts from execution to strategic leadership, with expertise in managing global testing
+teams, recruitment, and performance appraisals. Seeking a Principal/Director-level role to
+drive technological modernization and scale Quality Engineering practices.
+
+url: https://github.com/vijayakumarcnp/portfolio
 #twitter_username: username
 github_username: vijayakumarcnp
 minimal_mistakes_skin: default
