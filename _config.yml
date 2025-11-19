@@ -73,6 +73,9 @@ author:
     - label: "Linkedin"
       icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/vijayakumarcnp/"
+    - label: "Acronyms"
+      icon: "fa-brands fa-github"
+      url: "https://wilsonmar.github.io/acronyms/"
 
 footer:
   links:
