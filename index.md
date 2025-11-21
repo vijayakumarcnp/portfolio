@@ -4,4 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 author_profile: true
+header:
+image: assets/images/hroimageforwebsite.png
 ---
