@@ -7,3 +7,4 @@ author_profile: true
 header:
 image: assets/images/hroimageforwebsite.png
 ---
+<a target="_blank"> <img src="https://res.cloudinary.com/dafulvowb/image/upload/v1763735088/staticwebsite_header_1900x500_khj6bc.png" /> </a>
