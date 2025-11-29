@@ -61,9 +61,6 @@ author:
   avatar : "/assets/images/profile.jpg"
   bio    : "Principal Test Architect turned front-end developer"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://vijayakumarcnp.github.io/"
     - label: "Upwork"
       icon: "fa-brands fa-upwork"
       url: "https://www.upwork.com/freelancers/~0123f0ff4363cc2c87"
@@ -73,12 +70,9 @@ author:
     - label: "Linkedin"
       icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/vijayakumarcnp/"
-    - label: "Acronyms"
-      icon: "fa-brands fa-github"
-      url: "https://wilsonmar.github.io/acronyms/"
     - label: "Paypal"
       icon: "fa-brands fa-paypal"
-      url: "https://www.paypal.com/paypalme/vijayakumarcnp"
+      url: "https://www.paypal.com/paypalme/vijayakumarcnp/"
 
 footer:
   links:
