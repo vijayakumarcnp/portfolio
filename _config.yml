@@ -73,6 +73,10 @@ author:
     - label: "Paypal"
       icon: "fa-brands fa-paypal"
       url: "https://www.paypal.com/paypalme/vijayakumarcnp/"
+    - label: "buymeacoffee"
+      icon: "fa fa-buymeacoffee"
+      url: "https://buymeacoffee.com/vjdcnpw/"
+      
 
 footer:
   links:
@@ -88,6 +92,9 @@ footer:
     - label: "Paypal"
       icon: "fa-brands fa-paypal"
       url: "https://www.paypal.com/paypalme/vijayakumarcnp"
+    - label: "buymeacoffee"
+      icon: "fa fa-buymeacoffee"
+      url: "https://buymeacoffee.com/vjdcnpw/"
 
 defaults:
   # _posts
