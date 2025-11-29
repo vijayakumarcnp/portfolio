@@ -76,6 +76,9 @@ author:
     - label: "Acronyms"
       icon: "fa-brands fa-github"
       url: "https://wilsonmar.github.io/acronyms/"
+    - label: "Paypal"
+      icon: "fa-brands fa-paypal"
+      url: "https://www.paypal.com/paypalme/vijayakumarcnp"
 
 footer:
   links:
@@ -88,9 +91,9 @@ footer:
     - label: "Linkedin"
       icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/vijayakumarcnp/"
-    - label: "Acronyms"
-      icon: "fa-brands fa-github"
-      url: "https://wilsonmar.github.io/acronyms/"
+    - label: "Paypal"
+      icon: "fa-brands fa-paypal"
+      url: "https://www.paypal.com/paypalme/vijayakumarcnp"
 
 defaults:
   # _posts
